@@ -1,0 +1,5 @@
+{
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "cmake.sourceDirectory": "/Users/peterhunady/arius/chess/linux",
+    "java.compile.nullAnalysis.mode": "automatic"
+}
